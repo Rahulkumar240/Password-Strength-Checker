@@ -1,2 +1,16 @@
-# Password-Strength-Checker
-I Built This Password Strength Checker GUI Application Using Tkinter and Python with using modules like Re . it is simple to Use , just open this code file into your vs code , import the modules required using pip installer and then simple run it , after that simply type the password to check strength of that password and then click on checkstrengt
+# 🔐 Cybersecurity Password Strength Checker (GUI)
+
+Cross-platform GUI app built with Python and Kivy  
+Checks password strength, entropy, and gives security advice
+
+## Features
+✅ Strength Checker (Weak / Moderate / Strong)  
+✅ Entropy Calculation  
+✅ Real-time feedback  
+✅ GUI Interface (cross-platform)  
+
+## Run the App
+
+```bash
+pip install kivy
+python app.py
